@@ -20,6 +20,15 @@ Este projeto se trata da resolução de 5 exercícios(4 médios e um difícil pe
 **Código:** [ACESSO](CouseSchedule/)<br>
 ![Course Schedule](/grafos1Assets/exercicio1.png)
 
+
+### Exercicio 2(Médio) - []()
+
+### Exercicio 3(Médio) - []()
+
+### Exercicio 4(Médio) - []()
+
+### Exercicio 5(Difícil) - []()
+
 Adicione 3 ou mais screenshots do projeto em funcionamento.(Em processo)
 
 ## Instalação 
