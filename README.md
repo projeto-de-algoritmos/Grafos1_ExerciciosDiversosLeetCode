@@ -15,6 +15,11 @@
 Este projeto se trata da resolução de 5 exercícios(4 médios e um difícil pela classificação do site) abordando o tema de Grafos. Os exercícios foram retirados do site [LeetCode](https://leetcode.com).
 
 ## Screenshots
+
+### Exercicio 1(Médio) - [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+**Código:** [ACESSO](CouseSchedule/)<br>
+![Course Schedule](/grafos1Assets/exercicio1.png)
+
 Adicione 3 ou mais screenshots do projeto em funcionamento.(Em processo)
 
 ## Instalação 
