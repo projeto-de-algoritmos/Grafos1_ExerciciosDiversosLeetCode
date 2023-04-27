@@ -22,7 +22,9 @@ Este projeto se trata da resolução de 5 exercícios(4 médios e um difícil pe
 ![Course Schedule](/grafos1Assets/exercicio1.png)
 
 
-### Exercicio 2(Médio) - []()
+### Exercicio 2(Médio) - [Shortest Path](https://leetcode.com/problems/shortest-path-with-alternating-colors/ )
+**Código:** [ACESSO](ShortestPath/ShortestPath.py)<br>
+![Shortest Path](/grafos1Assets/exercicio2.png)
 
 ### Exercicio 3(Médio) - []()
 
