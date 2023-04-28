@@ -26,7 +26,9 @@ Este projeto se trata da resolução de 5 exercícios(4 médios e um difícil pe
 **Código:** [ACESSO](ShortestPath/ShortestPath.py)<br>
 ![Shortest Path](/grafos1Assets/exercicio2.png)
 
-### Exercicio 3(Médio) - []()
+### Exercicio 3(Médio) - [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+**Código:** [ACESSO](EvaluateDivision/EvaluateDivision.py)<br>
+![Shortest Path](/grafos1Assets/exercicio3.png)
 
 ### Exercicio 4(Médio) - []()
 
