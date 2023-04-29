@@ -30,7 +30,9 @@ Este projeto se trata da resolução de 5 exercícios(4 médios e um difícil pe
 **Código:** [ACESSO](EvaluateDivision/EvaluateDivision.py)<br>
 ![Shortest Path](/grafos1Assets/exercicio3.png)
 
-### Exercicio 4(Médio) - []()
+### Exercicio 4(Médio) - [Find eventual safe states](https://leetcode.com/problems/find-eventual-safe-states/)
+**Código:** [ACESSO](FindEventualSafeStates/SafeStates.py)<br>
+![FindEventualSafeStates](/grafos1Assets/exercicio4.png)
 
 ### Exercicio 5(Difícil) - []()
 
