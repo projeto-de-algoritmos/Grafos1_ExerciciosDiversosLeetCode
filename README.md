@@ -42,6 +42,10 @@ Este projeto se trata da resolução de 5 exercícios(4 médios e um difícil pe
 
 - [github](/grafos1Assets/grafos1PA.mp4)
 
+
+https://user-images.githubusercontent.com/78980842/235451689-3c7ef8cc-0d9f-48b9-bd35-842cb9b44148.mp4
+
+
 - [youtube](https://www.youtube.com/watch?v=2Lpurkn63cc)
 
 
